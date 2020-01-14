@@ -1,0 +1,11 @@
+#com:
+#  aspire:
+#    trainning:
+#      in-memory: 
+#        enabled: true
+#      in-memory-no-dpl: 
+#        enabled: false
+
+      
+      
+      
