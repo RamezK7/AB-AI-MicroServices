@@ -1,0 +1,9 @@
+server:
+  port: 5050
+spring:
+  application:
+    name: api-gw
+  eureka:
+    client:
+      register-with-eureka: true
+    
